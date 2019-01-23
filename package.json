@@ -2,7 +2,7 @@
   "name": "stwiertz",
   "version": "1.0.2",
   "description": "\"# npxcard\"",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "prepare": "npm run build",
     "build": "node ./index.js",
