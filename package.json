@@ -1,9 +1,13 @@
 {
-  "name": "@stwiertz/npxcard",
-  "version": "1.0.0",
+  "name": "stwiertz",
+  "version": "1.0.1",
   "description": "\"# npxcard\"",
   "main": "index.js",
   "scripts": {
+    "prepare": "npm run build",
+    "build": "node build.js",
+    "dev": "npm run build && node ./bin/card.js",
+    "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
