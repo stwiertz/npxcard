@@ -1,6 +1,6 @@
 {
   "name": "stwiertz",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"# npxcard\"",
   "main": "./index.js",
   "scripts": {
