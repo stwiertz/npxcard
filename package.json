@@ -1,5 +1,5 @@
 {
-  "name": "npxcard",
+  "name": "@stwiertz/npxcard",
   "version": "1.0.0",
   "description": "\"# npxcard\"",
   "main": "index.js",
